@@ -5,7 +5,7 @@ Official documentation of [GraphCMS](https://graphcms.com) / [docs](https://grap
 
 ## Install
 
-```
+```bash
 pip install mkdocs
 pip install pygments
 pip install pymdown-extensions
